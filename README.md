@@ -1,12 +1,76 @@
-# React + Vite
+# 💸 아끼미 (Akkimi)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **AI가 당신의 절약 여정을 함께하는 감정형 절약 코치 서비스**
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 서비스 개요
+**아끼미는 단순한 지출 기록을 넘어**,  
+절약 과정에서 느껴지는 **외로움과 동기 부족을 AI가 함께 해결**하는 서비스입니다.  
+AI는 단순한 기록 보조가 아니라 **사용자 경험의 중심**이 됩니다.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ 핵심 기능
+- 🧩 **개인 맞춤 피드백**: 소비 성향 퀴즈와 지출 데이터를 학습해 최적화된 조언 제공  
+- 💬 **실시간 대화형 피드백**: 카카오톡 미리보기 형식의 응답으로 몰입감 강화  
+- 🎭 **AI 말투 커스터마이징**: 사용자가 원하는 캐릭터성으로 감정적 교류  
+- 🔄 **습관 형성 지원**: 소비 패턴을 실시간 점검하며 절약 루틴 강화  
+
+---
+
+## 🌱 서비스 차별점
+기존 가계부 앱은 단순 기록에 머물지만,  
+**아끼미는 ‘AI와 함께하는 절약 동행’으로 경험을 전환**합니다.
+
+---
+
+## 💰 실행 및 수익화 전략
+- 🏪 **지역 착한가격 업소 맞춤 추천**  
+  → AI가 지출 데이터 기반으로 소비자-업소를 연결  
+- 💵 **광고 및 프리미엄 모델 결합**  
+  → 업소 상단 노출 + 캐릭터 말투 유료 커스터마이징  
+- 🤝 **지속 가능한 지역 네트워크**  
+  → 청년 경제 자립 + 지역경제 활성화 동시 달성  
+
+---
+
+## ⚙️ 기술 스택
+
+| 구분 | 사용 기술 |
+|:----|:-----------|
+| **Frontend** | React, TypeScript, Vite, Tailwind CSS, TanStack Query, Axios |
+| **UI/UX** | Figma, Lucide Icons, shadcn/ui, Framer Motion |
+| **State & Data Management** | TanStack Query (React Query), React Hooks, Context API |
+| **Build & Deployment** | Vite, Vercel |
+| **Version Control** | Git, GitHub (Branch 전략: `main` / `dev` / `feat/*`) |
+| **Collaboration** | Notion, Slack, Figma, Google Drive |
+
+---
+
+## 📱 주요 화면 예시
+> Figma 디자인 기준 393px 모바일 프레임 기반 구현
+
+| 페이지 | 설명 |
+|:-------|:-----|
+| **HomePage** | 절약 요약 및 소비 통계 시각화 |
+| **ChatbotPage** | AI 대화형 피드백 제공, 말투 커스터마이징 |
+| **CalendarPage** | 일별 지출 내역 및 목표 달성 상태 표시 |
+| **SupportPage** | 착한가격 업소 추천 및 지역 리워드 안내 |
+| **SettingsPage** | 프로필, 소비 성향 테스트, 챗봇 말투 설정 등 |
+
+---
+
+## 🌟 비전
+> “절약은 외로운 싸움이 아니다.”  
+>  
+> 아끼미는 **AI 기반 감정 교류와 맞춤 피드백으로**  
+> 사용자의 절약 실천 가능성을 극대화하고,  
+> **지속 가능한 금융 습관 문화를 만들어갑니다.**
+
+---
+
+## 👥 팀 정보
+**멋쟁이사자처럼 13기 아자팀**  
+AI 기반 절약 코치 서비스 **‘아끼미’**
+
